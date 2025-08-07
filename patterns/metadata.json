@@ -1,0 +1,436 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2025-01-07",
+  "description": "Metadata for Senda pattern library",
+  "patterns": [
+    {
+      "filename": "battlesbury.thr",
+      "title": "Battlesbury",
+      "description": "Ancient hillfort-inspired circular pattern with defensive ramparts",
+      "tags": ["geometric", "historical", "circular"],
+      "category": "geometric"
+    },
+    {
+      "filename": "beach.thr",
+      "title": "Beach",
+      "description": "Flowing waves and shoreline patterns reminiscent of ocean tides",
+      "tags": ["nature", "waves", "organic"],
+      "category": "nature"
+    },
+    {
+      "filename": "bear.thr",
+      "title": "Bear",
+      "description": "Stylized bear silhouette with organic curves",
+      "tags": ["nature", "animals", "organic"],
+      "category": "nature"
+    },
+    {
+      "filename": "chartres_labyrinth.thr",
+      "title": "Chartres Labyrinth",
+      "description": "Medieval walking meditation labyrinth from Chartres Cathedral",
+      "tags": ["spiritual", "historical", "labyrinth"],
+      "category": "spiritual"
+    },
+    {
+      "filename": "circle_normalized.thr",
+      "title": "Perfect Circle",
+      "description": "Mathematically precise circle with normalized coordinates",
+      "tags": ["geometric", "basic", "circular"],
+      "category": "geometric"
+    },
+    {
+      "filename": "circle_packer.thr",
+      "title": "Circle Packer",
+      "description": "Multiple circles arranged in efficient packing formation",
+      "tags": ["geometric", "mathematical", "circular"],
+      "category": "geometric"
+    },
+    {
+      "filename": "clear_from_in.thr",
+      "title": "Clear From Center",
+      "description": "Clearing pattern starting from the center outward",
+      "tags": ["utility", "clearing", "radial"],
+      "category": "utility"
+    },
+    {
+      "filename": "clear_from_out.thr",
+      "title": "Clear From Edge",
+      "description": "Clearing pattern starting from the outer edge inward",
+      "tags": ["utility", "clearing", "radial"],
+      "category": "utility"
+    },
+    {
+      "filename": "clear_sideway.thr",
+      "title": "Sideways Clear",
+      "description": "Horizontal clearing pattern from side to side",
+      "tags": ["utility", "clearing", "linear"],
+      "category": "utility"
+    },
+    {
+      "filename": "dither_sunburst.thr",
+      "title": "Dithered Sunburst",
+      "description": "Radiating sunburst pattern with dithered texture effects",
+      "tags": ["geometric", "radial", "textured"],
+      "category": "geometric"
+    },
+    {
+      "filename": "even_sparser_sawtooth.thr",
+      "title": "Ultra Sparse Sawtooth",
+      "description": "Minimalist sawtooth wave with maximum spacing",
+      "tags": ["geometric", "waves", "minimal"],
+      "category": "geometric"
+    },
+    {
+      "filename": "flow_snake.thr",
+      "title": "Flow Snake",
+      "description": "Sinuous flowing pattern resembling a snake's movement",
+      "tags": ["nature", "organic", "flowing"],
+      "category": "nature"
+    },
+    {
+      "filename": "fractal.thr",
+      "title": "Fractal",
+      "description": "Self-similar fractal pattern with recursive geometry",
+      "tags": ["fractals", "mathematical", "complex"],
+      "category": "fractals"
+    },
+    {
+      "filename": "hexagon_alley.thr",
+      "title": "Hexagon Alley",
+      "description": "Pathway through hexagonal structures",
+      "tags": ["geometric", "hexagonal", "architectural"],
+      "category": "geometric"
+    },
+    {
+      "filename": "hexagoner_2.thr",
+      "title": "Hexagoner II",
+      "description": "Advanced hexagonal pattern with complex arrangements",
+      "tags": ["geometric", "hexagonal", "complex"],
+      "category": "geometric"
+    },
+    {
+      "filename": "its_your_move.thr",
+      "title": "It's Your Move",
+      "description": "Interactive-style pattern suggesting strategic positioning",
+      "tags": ["geometric", "strategic", "interactive"],
+      "category": "geometric"
+    },
+    {
+      "filename": "labyrinth.thr",
+      "title": "Labyrinth",
+      "description": "Classic maze-like pattern for meditative walking",
+      "tags": ["spiritual", "maze", "meditative"],
+      "category": "spiritual"
+    },
+    {
+      "filename": "maze.thr",
+      "title": "Maze",
+      "description": "Intricate maze pattern with multiple pathways",
+      "tags": ["geometric", "maze", "complex"],
+      "category": "geometric"
+    },
+    {
+      "filename": "mountain.thr",
+      "title": "Mountain",
+      "description": "Mountainous landscape silhouette with peaks and valleys",
+      "tags": ["nature", "landscape", "organic"],
+      "category": "nature"
+    },
+    {
+      "filename": "pattern_lindenmayer.thr",
+      "title": "Lindenmayer System",
+      "description": "L-system fractal pattern based on formal grammar rules",
+      "tags": ["fractals", "mathematical", "algorithmic"],
+      "category": "fractals"
+    },
+    {
+      "filename": "pattern_rhodonea.thr",
+      "title": "Rhodonea Rose",
+      "description": "Mathematical rose curve with petal formations",
+      "tags": ["geometric", "mathematical", "floral"],
+      "category": "geometric"
+    },
+    {
+      "filename": "pattern_shape_spin.thr",
+      "title": "Shape Spin",
+      "description": "Rotating geometric shapes creating dynamic patterns",
+      "tags": ["geometric", "rotating", "dynamic"],
+      "category": "geometric"
+    },
+    {
+      "filename": "pattern_spokes.thr",
+      "title": "Spokes",
+      "description": "Radiating spoke pattern like a wheel or star burst",
+      "tags": ["geometric", "radial", "symmetric"],
+      "category": "geometric"
+    },
+    {
+      "filename": "pattern_superellipse.thr",
+      "title": "Superellipse",
+      "description": "Mathematical superellipse shape with curved boundaries",
+      "tags": ["geometric", "mathematical", "curved"],
+      "category": "geometric"
+    },
+    {
+      "filename": "penrose.thr",
+      "title": "Penrose Tiling",
+      "description": "Non-periodic tessellation with five-fold symmetry",
+      "tags": ["fractals", "mathematical", "tessellation"],
+      "category": "fractals"
+    },
+    {
+      "filename": "petalar.thr",
+      "title": "Petalar",
+      "description": "Flower petal arrangement in radial symmetry",
+      "tags": ["nature", "floral", "radial"],
+      "category": "nature"
+    },
+    {
+      "filename": "pnut_trellis.thr",
+      "title": "Peanut Trellis",
+      "description": "Trellis pattern with peanut-shaped nodes",
+      "tags": ["geometric", "architectural", "organic"],
+      "category": "geometric"
+    },
+    {
+      "filename": "reuleaux.thr",
+      "title": "Reuleaux Triangle",
+      "description": "Curved triangle with constant width properties",
+      "tags": ["geometric", "mathematical", "curved"],
+      "category": "geometric"
+    },
+    {
+      "filename": "rose.thr",
+      "title": "Rose",
+      "description": "Classic mathematical rose curve pattern",
+      "tags": ["geometric", "mathematical", "floral"],
+      "category": "geometric"
+    },
+    {
+      "filename": "rose_2.thr",
+      "title": "Rose II",
+      "description": "Variation of the mathematical rose with different parameters",
+      "tags": ["geometric", "mathematical", "floral"],
+      "category": "geometric"
+    },
+    {
+      "filename": "sawtooth.thr",
+      "title": "Sawtooth Wave",
+      "description": "Sharp-edged sawtooth wave pattern",
+      "tags": ["geometric", "waves", "angular"],
+      "category": "geometric"
+    },
+    {
+      "filename": "senda.thr",
+      "title": "Senda Signature",
+      "description": "The signature Senda pattern showcasing theta-rho coordinates",
+      "tags": ["signature", "demonstration", "showcase"],
+      "category": "signature"
+    },
+    {
+      "filename": "shell.thr",
+      "title": "Nautilus Shell",
+      "description": "Spiral shell pattern inspired by nautilus chambers",
+      "tags": ["nature", "spirals", "organic"],
+      "category": "spirals"
+    },
+    {
+      "filename": "sierpinski.thr",
+      "title": "Sierpinski Fractal",
+      "description": "Classic Sierpinski fractal with self-similar triangles",
+      "tags": ["fractals", "mathematical", "triangular"],
+      "category": "fractals"
+    },
+    {
+      "filename": "sierpinski_square.thr",
+      "title": "Sierpinski Square",
+      "description": "Square variation of the Sierpinski fractal pattern",
+      "tags": ["fractals", "mathematical", "square"],
+      "category": "fractals"
+    },
+    {
+      "filename": "sierpinski_triangle.thr",
+      "title": "Sierpinski Triangle",
+      "description": "Triangular Sierpinski fractal with recursive structure",
+      "tags": ["fractals", "mathematical", "triangular"],
+      "category": "fractals"
+    },
+    {
+      "filename": "simple_radiance.thr",
+      "title": "Simple Radiance",
+      "description": "Basic radiating pattern from center point",
+      "tags": ["geometric", "radial", "simple"],
+      "category": "geometric"
+    },
+    {
+      "filename": "sine_vs_bezier.thr",
+      "title": "Sine vs Bezier",
+      "description": "Comparison pattern showing sine waves versus Bezier curves",
+      "tags": ["geometric", "mathematical", "comparison"],
+      "category": "geometric"
+    },
+    {
+      "filename": "six_sided_polygon.thr",
+      "title": "Hexagon",
+      "description": "Perfect six-sided polygon with equal sides and angles",
+      "tags": ["geometric", "polygon", "hexagonal"],
+      "category": "geometric"
+    },
+    {
+      "filename": "sparse_sawtooth.thr",
+      "title": "Sparse Sawtooth",
+      "description": "Widely spaced sawtooth wave pattern",
+      "tags": ["geometric", "waves", "minimal"],
+      "category": "geometric"
+    },
+    {
+      "filename": "spiral.thr",
+      "title": "Classic Spiral",
+      "description": "Simple logarithmic spiral pattern",
+      "tags": ["spirals", "mathematical", "basic"],
+      "category": "spirals"
+    },
+    {
+      "filename": "spiral_bezier.thr",
+      "title": "Bezier Spiral",
+      "description": "Smooth spiral created with Bezier curve mathematics",
+      "tags": ["spirals", "mathematical", "smooth"],
+      "category": "spirals"
+    },
+    {
+      "filename": "spiral_gyrations.thr",
+      "title": "Spiral Gyrations",
+      "description": "Complex spiral with gyrating motions and variations",
+      "tags": ["spirals", "complex", "dynamic"],
+      "category": "spirals"
+    },
+    {
+      "filename": "spiral_triangle.thr",
+      "title": "Triangular Spiral",
+      "description": "Spiral pattern incorporating triangular elements",
+      "tags": ["spirals", "triangular", "geometric"],
+      "category": "spirals"
+    },
+    {
+      "filename": "square.thr",
+      "title": "Perfect Square",
+      "description": "Mathematically precise square with equal sides",
+      "tags": ["geometric", "basic", "square"],
+      "category": "geometric"
+    },
+    {
+      "filename": "square_erase.thr",
+      "title": "Square Erase",
+      "description": "Square pattern designed for clearing or erasing",
+      "tags": ["utility", "clearing", "square"],
+      "category": "utility"
+    },
+    {
+      "filename": "square_rotate.thr",
+      "title": "Rotating Square",
+      "description": "Square pattern with rotational transformations",
+      "tags": ["geometric", "rotating", "square"],
+      "category": "geometric"
+    },
+    {
+      "filename": "star.thr",
+      "title": "Star",
+      "description": "Multi-pointed star pattern with radiating points",
+      "tags": ["geometric", "star", "radial"],
+      "category": "geometric"
+    },
+    {
+      "filename": "swirly.thr",
+      "title": "Swirly",
+      "description": "Organic swirling pattern with flowing curves",
+      "tags": ["nature", "organic", "flowing"],
+      "category": "nature"
+    },
+    {
+      "filename": "swoopy_radiance.thr",
+      "title": "Swoopy Radiance",
+      "description": "Radiating pattern with swooping, curved lines",
+      "tags": ["geometric", "radial", "curved"],
+      "category": "geometric"
+    },
+    {
+      "filename": "ten_sided_polygon.thr",
+      "title": "Decagon",
+      "description": "Ten-sided regular polygon with equal sides and angles",
+      "tags": ["geometric", "polygon", "complex"],
+      "category": "geometric"
+    },
+    {
+      "filename": "tesselation_twist.thr",
+      "title": "Tessellation Twist",
+      "description": "Twisted tessellation pattern with interlocking shapes",
+      "tags": ["geometric", "tessellation", "complex"],
+      "category": "geometric"
+    },
+    {
+      "filename": "triangle_swoop.thr",
+      "title": "Triangle Swoop",
+      "description": "Triangular shapes with swooping curved connections",
+      "tags": ["geometric", "triangular", "curved"],
+      "category": "geometric"
+    },
+    {
+      "filename": "web.thr",
+      "title": "Spider Web",
+      "description": "Intricate web pattern with radial and concentric elements",
+      "tags": ["nature", "web", "radial"],
+      "category": "nature"
+    },
+    {
+      "filename": "whale.thr",
+      "title": "Whale",
+      "description": "Stylized whale silhouette with flowing organic curves",
+      "tags": ["nature", "animals", "organic"],
+      "category": "nature"
+    },
+    {
+      "filename": "wormhole.thr",
+      "title": "Wormhole",
+      "description": "Tunnel-like pattern suggesting dimensional passage",
+      "tags": ["geometric", "dimensional", "tunnel"],
+      "category": "geometric"
+    }
+  ],
+  "categories": {
+    "geometric": {
+      "name": "Geometric",
+      "description": "Precise mathematical shapes and patterns",
+      "color": "#8B7355"
+    },
+    "nature": {
+      "name": "Nature",
+      "description": "Organic patterns inspired by the natural world",
+      "color": "#2ecc71"
+    },
+    "spirals": {
+      "name": "Spirals",
+      "description": "Spiral formations and logarithmic curves",
+      "color": "#3498db"
+    },
+    "fractals": {
+      "name": "Fractals",
+      "description": "Self-similar patterns with recursive geometry",
+      "color": "#9b59b6"
+    },
+    "spiritual": {
+      "name": "Spiritual",
+      "description": "Meditative and contemplative patterns",
+      "color": "#f39c12"
+    },
+    "utility": {
+      "name": "Utility",
+      "description": "Functional patterns for clearing and maintenance",
+      "color": "#95a5a6"
+    },
+    "signature": {
+      "name": "Signature",
+      "description": "Signature Senda demonstration patterns",
+      "color": "#e74c3c"
+    }
+  }
+}
