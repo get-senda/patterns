@@ -5,8 +5,8 @@
   "patterns": [
     {
       "filename": "battlesbury.thr",
-      "title": "Battlesbury",
-      "description": "Ancient hillfort-inspired circular pattern with defensive ramparts",
+      "title": "Sacred Hill",
+      "description": "Ancient circular pattern inspired by hilltop sanctuaries and peaceful gathering places",
       "tags": ["geometric", "historical", "circular"],
       "category": "geometric"
     },
@@ -34,49 +34,49 @@
     {
       "filename": "circle_normalized.thr",
       "title": "Perfect Circle",
-      "description": "Mathematically precise circle with normalized coordinates",
+      "description": "Pure circular form representing wholeness and completion",
       "tags": ["geometric", "basic", "circular"],
       "category": "geometric"
     },
     {
       "filename": "circle_packer.thr",
-      "title": "Circle Packer",
-      "description": "Multiple circles arranged in efficient packing formation",
-      "tags": ["geometric", "mathematical", "circular"],
+      "title": "Harmony Stones",
+      "description": "Circles nestled together like smooth river stones in perfect balance",
+      "tags": ["geometric", "balanced", "circular"],
       "category": "geometric"
     },
     {
       "filename": "clear_from_in.thr",
       "title": "Clear From Center",
-      "description": "Clearing pattern starting from the center outward",
-      "tags": ["utility", "clearing", "radial"],
+      "description": "Gentle clearing beginning from the center, spreading outward",
+      "tags": ["utility", "centering", "radial"],
       "category": "utility"
     },
     {
       "filename": "clear_from_out.thr",
       "title": "Clear From Edge",
-      "description": "Clearing pattern starting from the outer edge inward",
-      "tags": ["utility", "clearing", "radial"],
+      "description": "Mindful clearing that draws energy from the edges back to stillness",
+      "tags": ["utility", "centering", "radial"],
       "category": "utility"
     },
     {
       "filename": "clear_sideway.thr",
-      "title": "Sideways Clear",
+      "title": "Clear Sideways",
       "description": "Horizontal clearing pattern from side to side",
-      "tags": ["utility", "clearing", "linear"],
+      "tags": ["utility", "flowing", "linear"],
       "category": "utility"
     },
     {
       "filename": "dither_sunburst.thr",
-      "title": "Dithered Sunburst",
-      "description": "Radiating sunburst pattern with dithered texture effects",
-      "tags": ["geometric", "radial", "textured"],
+      "title": "Dawn Light",
+      "description": "Gentle rays of morning light with soft, scattered illumination",
+      "tags": ["geometric", "radial", "luminous"],
       "category": "geometric"
     },
     {
       "filename": "even_sparser_sawtooth.thr",
-      "title": "Ultra Sparse Sawtooth",
-      "description": "Minimalist sawtooth wave with maximum spacing",
+      "title": "Gentle Waves",
+      "description": "Minimalist wave pattern with spacious, flowing rhythm",
       "tags": ["geometric", "waves", "minimal"],
       "category": "geometric"
     },
@@ -89,30 +89,30 @@
     },
     {
       "filename": "fractal.thr",
-      "title": "Fractal",
-      "description": "Self-similar fractal pattern with recursive geometry",
-      "tags": ["fractals", "mathematical", "complex"],
+      "title": "Infinite Reflection",
+      "description": "Pattern that mirrors itself endlessly, like reflections in still water",
+      "tags": ["fractals", "contemplative", "infinite"],
       "category": "fractals"
     },
     {
       "filename": "hexagon_alley.thr",
-      "title": "Hexagon Alley",
-      "description": "Pathway through hexagonal structures",
-      "tags": ["geometric", "hexagonal", "architectural"],
+      "title": "Honeycomb Path",
+      "description": "Peaceful walkway through nature's perfect hexagonal chambers",
+      "tags": ["geometric", "hexagonal", "natural"],
       "category": "geometric"
     },
     {
       "filename": "hexagoner_2.thr",
-      "title": "Hexagoner II",
-      "description": "Advanced hexagonal pattern with complex arrangements",
-      "tags": ["geometric", "hexagonal", "complex"],
+      "title": "Sacred Geometry",
+      "description": "Intricate hexagonal arrangement revealing nature's hidden order",
+      "tags": ["geometric", "hexagonal", "sacred"],
       "category": "geometric"
     },
     {
       "filename": "its_your_move.thr",
-      "title": "It's Your Move",
-      "description": "Interactive-style pattern suggesting strategic positioning",
-      "tags": ["geometric", "strategic", "interactive"],
+      "title": "Path Forward",
+      "description": "Contemplative pattern encouraging mindful decision-making",
+      "tags": ["geometric", "contemplative", "mindful"],
       "category": "geometric"
     },
     {
@@ -124,9 +124,9 @@
     },
     {
       "filename": "maze.thr",
-      "title": "Maze",
-      "description": "Intricate maze pattern with multiple pathways",
-      "tags": ["geometric", "maze", "complex"],
+      "title": "Life's Journey",
+      "description": "Winding paths that mirror the contemplative journey of existence",
+      "tags": ["geometric", "journey", "contemplative"],
       "category": "geometric"
     },
     {
@@ -138,37 +138,37 @@
     },
     {
       "filename": "pattern_lindenmayer.thr",
-      "title": "Lindenmayer System",
-      "description": "L-system fractal pattern based on formal grammar rules",
-      "tags": ["fractals", "mathematical", "algorithmic"],
+      "title": "Three Jewels",
+      "description": "Ancient symbol of three treasures nestled together, each triangle supporting the others in mindful unity",
+      "tags": ["fractals", "organic", "growing"],
       "category": "fractals"
     },
     {
       "filename": "pattern_rhodonea.thr",
       "title": "Rhodonea Rose",
-      "description": "Mathematical rose curve with petal formations",
-      "tags": ["geometric", "mathematical", "floral"],
+      "description": "Graceful petals unfolding in perfect symmetrical harmony",
+      "tags": ["geometric", "floral", "harmonious"],
       "category": "geometric"
     },
     {
       "filename": "pattern_shape_spin.thr",
-      "title": "Shape Spin",
-      "description": "Rotating geometric shapes creating dynamic patterns",
-      "tags": ["geometric", "rotating", "dynamic"],
+      "title": "Whirling Dance",
+      "description": "Graceful shapes spinning in meditative circular motion",
+      "tags": ["geometric", "meditative", "graceful"],
       "category": "geometric"
     },
     {
       "filename": "pattern_spokes.thr",
-      "title": "Spokes",
-      "description": "Radiating spoke pattern like a wheel or star burst",
-      "tags": ["geometric", "radial", "symmetric"],
+      "title": "Wisdom Wheel",
+      "description": "Radiating lines of enlightenment extending from a centered core",
+      "tags": ["geometric", "radial", "centered"],
       "category": "geometric"
     },
     {
       "filename": "pattern_superellipse.thr",
-      "title": "Superellipse",
-      "description": "Mathematical superellipse shape with curved boundaries",
-      "tags": ["geometric", "mathematical", "curved"],
+      "title": "Gentle Oval",
+      "description": "Softly curved form blending circle and square in perfect balance",
+      "tags": ["geometric", "balanced", "curved"],
       "category": "geometric"
     },
     {
@@ -215,9 +215,9 @@
     },
     {
       "filename": "sawtooth.thr",
-      "title": "Sawtooth Wave",
-      "description": "Sharp-edged sawtooth wave pattern",
-      "tags": ["geometric", "waves", "angular"],
+      "title": "Mountain Peaks",
+      "description": "Rhythmic pattern evoking serene mountain ridges",
+      "tags": ["geometric", "waves", "natural"],
       "category": "geometric"
     },
     {
@@ -264,9 +264,9 @@
     },
     {
       "filename": "sine_vs_bezier.thr",
-      "title": "Sine vs Bezier",
-      "description": "Comparison pattern showing sine waves versus Bezier curves",
-      "tags": ["geometric", "mathematical", "comparison"],
+      "title": "Flow Harmony",
+      "description": "Peaceful interplay between natural and curved flowing lines",
+      "tags": ["geometric", "flowing", "harmony"],
       "category": "geometric"
     },
     {
@@ -278,8 +278,8 @@
     },
     {
       "filename": "sparse_sawtooth.thr",
-      "title": "Sparse Sawtooth",
-      "description": "Widely spaced sawtooth wave pattern",
+      "title": "Distant Hills",
+      "description": "Spacious wave pattern like rolling hills on the horizon",
       "tags": ["geometric", "waves", "minimal"],
       "category": "geometric"
     },
@@ -390,9 +390,9 @@
     },
     {
       "filename": "wormhole.thr",
-      "title": "Wormhole",
-      "description": "Tunnel-like pattern suggesting dimensional passage",
-      "tags": ["geometric", "dimensional", "tunnel"],
+      "title": "Inner Journey",
+      "description": "Spiral passage inviting contemplation and inner reflection",
+      "tags": ["geometric", "contemplative", "spiral"],
       "category": "geometric"
     }
   ],
